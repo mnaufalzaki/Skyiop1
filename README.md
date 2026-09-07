@@ -7,6 +7,6 @@
 https://naufalzaki.vercel.app
 
 
-Naufal Zaki is currently student at Information Systems undergraduate at Universitas Airlangga Awardee of the BSI Scholarship, awarded to high-achieving students demonstrating academic excellence and leadership potential.
-Currently building toward a career in Financial Infrastructure Engineering, with focused study in Java backend development, institutional blockchain architecture, and digital payment systems.
-Experienced in leading large-scale educational initiatives and developing creative narratives for events. Managed budgets with 100% accuracy and handled public relations across multiple programs.
+Muhammad Naufal Zaki is an Information Systems undergraduate at Universitas Airlangga and BSI Scholarship awardee, exploring the intersection of technology, business, and organizational transformation.
+His interests include enterprise systems, technology risk, financial technology, data analytics, and digital transformation. Experienced in stakeholder coordination, partnership initiatives, and building practical technology solutions through academic and professional projects.
+Focused on developing impactful solutions by combining technology, analytical thinking, and collaboration.
